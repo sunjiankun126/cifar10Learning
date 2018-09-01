@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/AI/cifar10/train\\model.ckpt-151000"
+all_model_checkpoint_paths: "D:/AI/cifar10/train\\model.ckpt-147000"
+all_model_checkpoint_paths: "D:/AI/cifar10/train\\model.ckpt-148000"
+all_model_checkpoint_paths: "D:/AI/cifar10/train\\model.ckpt-149000"
+all_model_checkpoint_paths: "D:/AI/cifar10/train\\model.ckpt-150000"
+all_model_checkpoint_paths: "D:/AI/cifar10/train\\model.ckpt-151000"
